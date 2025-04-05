@@ -1,4 +1,4 @@
-# Pong 2D AIndroid Application 🎮
+# Pong 2D Android Application 🎮
 
 A classic 2D Pong game built for Android using Java and SurfaceView, featuring:
 - Player paddle on the left
