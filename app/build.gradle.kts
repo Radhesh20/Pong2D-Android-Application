@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pong2d"
+    namespace = "com.example.pong2dgame"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.pong2d"
-        minSdk = 25
+        applicationId = "com.example.pong2dgame"
+        minSdk = 24
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"

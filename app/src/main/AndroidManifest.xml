@@ -10,15 +10,14 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Pong2D"
+        android:theme="@style/Theme.Pong2dGame"
         tools:targetApi="31">
-        <activity
-            android:name=".PongActivity"
-            android:exported="false" />
-        <activity
-            android:name=".GameActivity"
-            android:exported="true">
-            <intent-filter>
+        <activity android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation|screenSize">
+
+        <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
