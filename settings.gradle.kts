@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Pong2D"
+rootProject.name = "Pong2dGame"
 include(":app")
  
