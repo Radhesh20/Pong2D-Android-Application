@@ -15,7 +15,7 @@ A classic 2D Pong game built for Android using Java and SurfaceView, featuring:
 - SurfaceView for custom game rendering
 
 ## 📦 APK
-[Download the APK](https://github.com/Radhesh20/Pong-2D-AI-Game/releases)
+[Download the APK](https://github.com/Radhesh20/Pong2D-Android-Application/releases/download/v1.0/app-debug.apk)
 
 ---
 
